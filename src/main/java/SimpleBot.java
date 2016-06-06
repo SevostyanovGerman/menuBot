@@ -30,7 +30,7 @@ public class SimpleBot extends TelegramLongPollingBot {
  
 	@Override
 	public String getBotToken() {
-		return "199017328:AAGFzJxtW5dtwWR_rGJZOJ3nogIUEh6FgfM";
+		return "";
 	}
 
 	public void onUpdateReceived(Update update) {
